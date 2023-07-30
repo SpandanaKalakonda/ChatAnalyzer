@@ -1,2 +1,2 @@
 # ChatAnalyzer
-Whatsapp chat analsis
+Whatsapp chat analysis
